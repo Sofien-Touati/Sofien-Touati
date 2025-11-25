@@ -66,10 +66,6 @@ Note: Most of my professional work is under NDA. Below are some projects deploye
 <a href="https://www.se.com/fr/fr/work/support/myschneider-app/"><img src="https://www.se.com/_uce_/immutable/assets/logo-se-life-is-on-signature.J-pv18CR.svg" height="120"></a>
 <a href="https://play.google.com/store/apps/details?id=com.schneider.qrcode.tocase"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 <br>
-<br>
-<a href="https://corporate.sgsante.fr/"><img src="https://corporate.sgsante.fr/wp-content/uploads/2024/08/sgsante_logo@2x.png" height="120"></a>
-<a href="https://play.google.com/store/apps/details?id=sgsante.app.android"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
-<br>
 🏦 Banking & Finance<br>
 Secure Payment Integration - Implemented Stripe SDK with PCI-compliant architecture<br>
 <br>
