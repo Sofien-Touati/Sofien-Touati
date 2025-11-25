@@ -1,5 +1,96 @@
 # 💫 About Me:
-👋 Hi, I'm Sofien Touati – Senior Mobile Developer<br>Senior Mobile Developer specializing in Android Native (Kotlin/Java) and Flutter with 7+ years of experience building scalable, high-performance applications for international clients across banking, industrial IoT, and humanitarian sectors.<br><br>💼 What I Do<br>I transform complex business requirements into elegant, user-centric mobile solutions. My expertise spans:<br><br>🚀 Native Android Development (Kotlin/Java) with Modern Architecture patterns<br><br>📱 Cross-Platform Development (Flutter, Kotlin Multiplatform)<br><br>🏗️ Clean Architecture & MVVM implementation<br><br>⚙️ CI/CD Pipeline Automation (GitHub Actions, GitLab CI, Azure DevOps)<br><br>🧪 Test-Driven Development with >80% code coverage<br><br>👥 Technical Leadership and team mentoring<br><br>🔥 Key Achievements<br>📊 Reduced code duplication by 60% through modular architecture implementation<br><br>🐛 Decreased production bugs by 60% with comprehensive testing strategies<br><br>🏦 Delivered banking applications serving 500K+ active users with >95% OCR accuracy<br><br>🌍 Built internationalized apps supporting 30+ languages across 100+ countries<br><br>⚡ Improved app performance, reducing load times and optimizing CI/CD workflows<br><br>👨‍🏫 Mentored 3+ developers and conducted 200+ code reviews<br><br>🛠️ Tech Stack<br>Languages & Frameworks<br><br>Architecture & State Management<br><br>DevOps & Tools<br><br>Testing & Quality<br><br>🎯 Current Focus<br>🔨 Building humanitarian applications at DIMBL (NGO) with Flutter<br><br>🚀 Exploring Jetpack Compose Multiplatform for KMP projects<br><br>📚 Deepening expertise in CI/CD optimization and automation<br><br>🌱 Contributing to open-source Flutter packages<br><br>💡 Sharing knowledge through technical articles and code reviews<br><br>📊 GitHub Stats<br>💡 Featured Projects<br>Note: Most of my professional work is under NDA. Below are some personal projects and open-source contributions that demonstrate my technical expertise.<br><br>🏦 Banking & Finance<br>Secure Payment Integration - Implemented Stripe SDK with PCI-compliant architecture<br><br>Biometric Authentication - Built a fingerprint/face recognition flow with fallback mechanisms<br><br>🏗️ Architecture & Patterns<br>Clean Architecture Template - Modular Kotlin/Flutter starter with CI/CD<br><br>MVVM Demo App - Showcasing repository pattern, use cases, and dependency injection<br><br>⚙️ CI/CD & DevOps<br>Automated Release Pipeline - GitHub Actions workflow / Gitlab CI Pipelines for multi-flavor Android builds<br><br>Flutter CI Template - CircleCI configuration with Firebase App Distribution<br><br>🌍 Languages<br>French - Professional<br><br>English - Professional (TOEIC 845)<br><br>Arabic - Native
+👋 Hi, I'm Sofien Touati – Senior Mobile Developer<br>
+
+Senior Mobile Developer specializing in Android Native (Kotlin/Java) and Flutter with 7+ years of experience building scalable, high-performance applications for international clients across banking, industrial IoT, and humanitarian sectors.<br>
+<br>
+💼 What I Do<br>
+I transform complex business requirements into elegant, user-centric mobile solutions. My expertise spans:<br>
+<br>
+🚀 Native Android Development (Kotlin/Java) with Modern Architecture patterns<br>
+<br>
+📱 Cross-Platform Development (Flutter, Kotlin Multiplatform)<br>
+<br>
+🏗️ Clean Architecture & MVVM implementation<br>
+<br>
+⚙️ CI/CD Pipeline Automation (GitHub Actions, GitLab CI, Azure DevOps)<br>
+<br>
+🧪 Test-Driven Development with >80% code coverage<br>
+<br>
+👥 Technical Leadership and team mentoring<br>
+<br>
+🔥 Key Achievements<br>
+📊 Reduced code duplication by 60% through modular architecture implementation<br>
+<br>
+🐛 Decreased production bugs by 60% with comprehensive testing strategies<br>
+<br>
+🏦 Delivered banking applications serving 500K+ active users with >95% OCR accuracy<br>
+<br>
+🌍 Built internationalized apps supporting 30+ languages across 100+ countries<br>
+<br>
+⚡ Improved app performance, reducing load times and optimizing CI/CD workflows<br>
+<br>
+👨‍🏫 Mentored 3+ developers and conducted 200+ code reviews<br>
+<br>
+🛠️ Tech Stack<br>
+Languages & Frameworks<br>
+<br>
+Architecture & State Management<br>
+<br>
+DevOps & Tools<br>
+<br>
+Testing & Quality<br>
+<br>
+🎯 Current Focus<br>
+🔨 Building humanitarian applications at DIMBL (NGO) with Flutter<br>
+<br>
+🚀 Exploring Jetpack Compose Multiplatform for KMP projects<br>
+<br>
+📚 Deepening expertise in CI/CD optimization and automation<br>
+<br>
+🌱 Contributing to open-source Flutter packages<br>
+<br>
+💡 Sharing knowledge through technical articles and code reviews<br>
+<br>
+💡 Featured Projects<br>
+Note: Most of my professional work is under NDA. Below are some projects deployed to the store that demonstrate my technical expertise.<br>
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.dimbl.app"><img src="https://dimbl.org/wp-content/uploads/2020/06/logo-color.png)" height="120"></a>
+<a href="https://play.google.com/store/apps/details?id=com.dimbl.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+<br>
+<br>
+<a href="https://dimbl.org/"><img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" height="120"></a>
+<a href="https://play.google.com/store/apps/details?id=com.Barwa"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+<a href="https://apps.apple.com/us/app/dukhan-mobile/id817391995"><img alt="Get it on Apple Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60px" /></a>
+<br>
+<br>
+<a href="https://www.se.com/fr/fr/work/support/myschneider-app/"><img src="https://www.se.com/_uce_/immutable/assets/logo-se-life-is-on-signature.J-pv18CR.svg" height="120"></a>
+<a href="https://play.google.com/store/apps/details?id=com.schneider.qrcode.tocase"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+<br>
+<br>
+<a href="https://corporate.sgsante.fr/"><img src="https://corporate.sgsante.fr/wp-content/uploads/2024/08/sgsante_logo@2x.png" height="120"></a>
+<a href="https://play.google.com/store/apps/details?id=sgsante.app.android"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+<br>
+🏦 Banking & Finance<br>
+Secure Payment Integration - Implemented Stripe SDK with PCI-compliant architecture<br>
+<br>
+Biometric Authentication - Built a fingerprint/face recognition flow with fallback mechanisms<br>
+<br>
+🏗️ Architecture & Patterns<br>
+Clean Architecture Template - Modular Kotlin/Flutter starter with CI/CD<br>
+<br>
+MVVM Demo App - Showcasing repository pattern, use cases, and dependency injection<br>
+<br>
+⚙️ CI/CD & DevOps<br>
+Automated Release Pipeline - GitHub Actions workflow / Gitlab CI Pipelines for multi-flavor Android builds<br>
+<br>
+Flutter CI Template - CircleCI configuration with Firebase App Distribution<br>
+<br>
+🌍 Languages<br>
+French - Professional<br>
+<br>
+English - Professional (TOEIC 845)<br>
+<br>
+Arabic - Native
 
 
 ## 🌐 Socials:
