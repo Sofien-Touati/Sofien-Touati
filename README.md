@@ -54,11 +54,11 @@ Testing & Quality<br>
 💡 Featured Projects<br>
 Note: Most of my professional work is under NDA. Below are some projects deployed to the store that demonstrate my technical expertise.<br>
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.dimbl.app"><img src="https://dimbl.org/wp-content/uploads/2020/06/logo-color.png)" height="120"></a>
+<a href="https://dimbl.org/"><img src="https://dimbl.org/wp-content/uploads/2020/06/logo-color.png)" height="120"></a>
 <a href="https://play.google.com/store/apps/details?id=com.dimbl.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 <br>
 <br>
-<a href="https://dimbl.org/"><img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" height="120"></a>
+<a href="https://dukhanbank.com"><img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" height="120"></a>
 <a href="https://play.google.com/store/apps/details?id=com.Barwa"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 <a href="https://apps.apple.com/us/app/dukhan-mobile/id817391995"><img alt="Get it on Apple Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60px" /></a>
 <br>
