@@ -1,116 +1,145 @@
-# 💫 About Me:
-👋 Hi, I'm Sofien Touati – Senior Mobile Developer<br>
+<div align="center">
 
-Senior Mobile Developer specializing in Android Native (Kotlin/Java) and Flutter with 7+ years of experience building scalable, high-performance applications for international clients across banking, industrial IoT, and humanitarian sectors.<br>
-<br>
-💼 What I Do<br>
-I transform complex business requirements into elegant, user-centric mobile solutions. My expertise spans:<br>
-<br>
-🚀 Native Android Development (Kotlin/Java) with Modern Architecture patterns<br>
-<br>
-📱 Cross-Platform Development (Flutter, Kotlin Multiplatform)<br>
-<br>
-🏗️ Clean Architecture & MVVM implementation<br>
-<br>
-⚙️ CI/CD Pipeline Automation (GitHub Actions, GitLab CI, Azure DevOps)<br>
-<br>
-🧪 Test-Driven Development with >80% code coverage<br>
-<br>
-👥 Technical Leadership and team mentoring<br>
-<br>
-🔥 Key Achievements<br>
-📊 Reduced code duplication by 60% through modular architecture implementation<br>
-<br>
-🐛 Decreased production bugs by 60% with comprehensive testing strategies<br>
-<br>
-🏦 Delivered banking applications serving 500K+ active users with >95% OCR accuracy<br>
-<br>
-🌍 Built internationalized apps supporting 30+ languages across 100+ countries<br>
-<br>
-⚡ Improved app performance, reducing load times and optimizing CI/CD workflows<br>
-<br>
-👨‍🏫 Mentored 3+ developers and conducted 200+ code reviews<br>
-<br>
-🛠️ Tech Stack<br>
-Languages & Frameworks<br>
-<br>
-Architecture & State Management<br>
-<br>
-DevOps & Tools<br>
-<br>
-Testing & Quality<br>
-<br>
-🎯 Current Focus<br>
-🔨 Building humanitarian applications at DIMBL (NGO) with Flutter<br>
-<br>
-🚀 Exploring Jetpack Compose Multiplatform for KMP projects<br>
-<br>
-📚 Deepening expertise in CI/CD optimization and automation<br>
-<br>
-🌱 Contributing to open-source Flutter packages<br>
-<br>
-💡 Sharing knowledge through technical articles and code reviews<br>
-<br>
-💡 Featured Projects<br>
-Note: Most of my professional work is under NDA. Below are some projects deployed to the store that demonstrate my technical expertise.<br>
-<br>
-<a href="https://dimbl.org/"><img src="https://dimbl.org/wp-content/uploads/2020/06/logo-color.png)" height="120"></a>
-<a href="https://play.google.com/store/apps/details?id=com.dimbl.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
-<br>
-<br>
-<a href="https://dukhanbank.com"><img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" height="120"></a>
-<a href="https://play.google.com/store/apps/details?id=com.Barwa"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
-<a href="https://apps.apple.com/us/app/dukhan-mobile/id817391995"><img alt="Get it on Apple Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60px" /></a>
-<br>
-<br>
-<a href="https://www.se.com/fr/fr/work/support/myschneider-app/"><img src="https://www.se.com/_uce_/immutable/assets/logo-se-life-is-on-signature.J-pv18CR.svg" height="120"></a>
-<a href="https://play.google.com/store/apps/details?id=com.schneider.qrcode.tocase"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
-<br>
-🏦 Banking & Finance<br>
-Secure Payment Integration - Implemented Stripe SDK with PCI-compliant architecture<br>
-<br>
-Biometric Authentication - Built a fingerprint/face recognition flow with fallback mechanisms<br>
-<br>
-🏗️ Architecture & Patterns<br>
-Clean Architecture Template - Modular Kotlin/Flutter starter with CI/CD<br>
-<br>
-MVVM Demo App - Showcasing repository pattern, use cases, and dependency injection<br>
-<br>
-⚙️ CI/CD & DevOps<br>
-Automated Release Pipeline - GitHub Actions workflow / Gitlab CI Pipelines for multi-flavor Android builds<br>
-<br>
-Flutter CI Template - CircleCI configuration with Firebase App Distribution<br>
-<br>
-🌍 Languages<br>
-French - Professional<br>
-<br>
-English - Professional (TOEIC 845)<br>
-<br>
-Arabic - Native
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=Mobile%20Developer%20📱&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Android+%7C+KMP+%7C+Flutter+Expert;Crafting+Beautiful+Mobile+Experiences;7%2B+Years+of+Mobile+Development;Building+Apps+That+Matter" alt="Typing SVG" /></a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofientouati) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4720899) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofientouati@gmail.com)
+### 👋 Hey, I'm **Sofien Touati**
 
-# 💻 Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&style=for-the-badge&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+Mobile Developer based in **Île-de-France, France** 🇫🇷  
+Passionate about creating seamless user experiences and building apps that people love to use.
 
-[//]: # (# 📊 GitHub Stats:)
-
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=Sofien-Touati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&#41;<br/>)
-
-[//]: # (![]&#40;https://nirzak-streak-stats.vercel.app/?user=Sofien-Touati&theme=dark&hide_border=false&#41;<br/>)
-
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Sofien-Touati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&#41;)
-
-[//]: # (## 🏆 GitHub Trophies)
-
-[//]: # (![]&#40;https://github-profile-trophy.vercel.app/?username=Sofien-Touati&theme=discord&no-frame=true&no-bg=true&#41;)
-
-### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=PixelifySans&quoteType=random&bgColor=black&fontColor=gold)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sofien-Touati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,firebase,git,github,gradle,figma&perline=5" />
+
+**Specialties:** Jetpack Compose • Kotlin Coroutines • Firebase • CI/CD • Clean Architecture
+
+</div>
+
+### 🚀 Latest Published Apps & Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### DIMBL
+
+<img src="https://dimbl.org/wp-content/uploads/2020/06/logo-color.png" width="100%" alt="DIMBL"/>
+
+**A Donation App**
+
+Cross-platform Flutter app with Firebase, Dart, Riverpod  
+Features Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics and Gamification 
+
+[![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge)](https://dimbl.org/)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dimbl.app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/dimbl/id6449847312)
+
+[//]: # ([![GitHub]&#40;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&#41;]&#40;https://github.com/yourusername/musicflow&#41;)
+
+[//]: # (⭐ **1M+ downloads** • **4.7★** rating)
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### Dukhan Bank
+
+<img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" width="100%" alt="Dukhan Bank"/>
+
+**The official banking app **
+
+Built with Flutter, Clean Architecture, Provider, HTTP, AutoRoute, Method Channel
+
+[![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge)](https://dukhanbank.com/)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Barwa)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/dukhan-mobile/id817391995)
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### MySchneider App
+
+<img src="https://www.se.com/_uce_/immutable/assets/logo-se-life-is-on-signature.J-pv18CR.svg" width="100%" alt="Schneider"/>
+
+**Your personal fitness companion**
+
+Native Android app with Compose (Migration in progress)  
+AWS, Amplify SDK, Jacoco, Azure Devops, Dynamic Features
+
+[![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge)](https://www.se.com/fr/fr/work/support/myschneider-app/)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.schneider.qrcode.tocase)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎯 What I'm Currently Up To
+
+- 🔭 Learning Accessibility Best Practices for Native Android and Flutter
+- 🌱 Exploring on-device AI with Gemini Nano and other models
+- 👯 Contributing to open-source Android libraries
+- ✍️ Writing tech articles about mobile development best practices
+
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofientouati)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sofientouati)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sofientouati)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sofientouati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofientouati@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Sofien-Touati&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+### 🎨 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" />
+
+**💙 Open to new opportunities and collaborations**
+
+</div>
