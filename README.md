@@ -66,7 +66,7 @@ Features: Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics,
 
 <img src="https://www.dukhanbank.com/themes/db_theme/assets/images/bb2020/dublogo-lg.svg" width="100%" alt="Dukhan Bank"/>
 
-**The official banking app **
+**The official banking app**
 
 Built with Flutter, Clean Architecture, Provider, HTTP, AutoRoute, Method Channel
 
@@ -86,7 +86,7 @@ Built with Flutter, Clean Architecture, Provider, HTTP, AutoRoute, Method Channe
 
 <img src="https://www.se.com/_uce_/immutable/assets/logo-se-life-is-on-signature.J-pv18CR.svg" width="100%" alt="Schneider"/>
 
-**Your personal fitness companion**
+**Provides Products Catalog and Helpful features for the users of Schneider Electric Products  based on their needs and country**
 
 Native Android app with Compose (Migration in progress)  
 AWS, Amplify SDK, Jacoco, Azure Devops, Dynamic Features
