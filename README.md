@@ -42,11 +42,13 @@ Passionate about creating seamless user experiences and building apps that peopl
 **A Donation App**
 
 Android App, Clean Architecture, MVVM, Jetpack Compose, Koin, Ktor,
-Features: Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics and Gamification 
+Features: Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics, and Gamification 
 
 [![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge)](https://dimbl.org/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dimbl.app)
+<!--
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/dimbl/id6449847312)
+-->
 
 [//]: # ([![GitHub]&#40;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&#41;]&#40;https://github.com/yourusername/musicflow&#41;)
 
