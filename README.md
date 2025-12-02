@@ -41,8 +41,8 @@ Passionate about creating seamless user experiences and building apps that peopl
 
 **A Donation App**
 
-Cross-platform Flutter app with Firebase, Dart, Riverpod  
-Features Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics and Gamification 
+Android App, Clean Architecture, MVVM, Jetpack Compose, Koin, Ktor,
+Features: Stripe Payment, Google Pay, Apple Pay, Tracking Donations, Statistics and Gamification 
 
 [![Website](https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge)](https://dimbl.org/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dimbl.app)
